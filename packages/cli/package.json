@@ -73,7 +73,7 @@
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0",
-    "babel-plugin-macros": "^2.4.2",
+    "babel-plugin-macros": "^2.8.0 || ^3.0.1",
     "typescript": "2 || 3 || 4"
   }
 }

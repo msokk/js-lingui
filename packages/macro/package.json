@@ -33,6 +33,6 @@
     "ramda": "^0.27.1"
   },
   "peerDependencies": {
-    "babel-plugin-macros": "^2.5.1"
+    "babel-plugin-macros": "^2.8.0 || ^3.0.1"
   }
 }
